@@ -13,7 +13,7 @@ public class IndexOf {
           System.out.println("No coinciden, no se puede devolver la posicion");
       }
       else if (resultado >= 0)  {
-          System.out.println(resultado);
+          System.out.println("Las posiciones son " + resultado);
       }
     }
 
